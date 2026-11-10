@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+# run outputs, recordings, caches (they live in C:\touhou-runs, never here)
+*.npy
+*.npz
+*.pkl
+*.log
+runs/

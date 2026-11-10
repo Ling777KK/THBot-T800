@@ -1,0 +1,10 @@
+# PyTorch: install the CUDA build that matches your GPU (https://pytorch.org)
+torch
+numpy
+mss
+pillow
+# AI-mode textures (modding/gamemode.py, pkgl.py)
+zstandard
+# optional: analysis plots / disassembly helper
+matplotlib
+capstone
